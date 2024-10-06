@@ -1,0 +1,10 @@
+POST http://localhost:8080/contacts HTTP/1.1
+Content-Type: application/json
+
+{
+  "firstName": "Candice",
+  "lastName": "Cirks",
+  "email": "tewirks@hotmail.com",
+  "favoriteColor": "Red",
+  "birthday": "1978-02-18"
+}

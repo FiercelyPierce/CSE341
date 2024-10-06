@@ -1,0 +1,6 @@
+PUT http://localhost:8080/contacts/670211185013021b95ea64a6 HTTP/1.1
+Content-Type: application/json
+
+{
+  "favoriteColor": "Blue"
+}
