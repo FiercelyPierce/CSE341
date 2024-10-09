@@ -1,0 +1,10 @@
+POST http://localhost:8080/contacts HTTP/1.1
+Content-Type: application/json
+
+{
+  "firstName": "Magnum",
+  "lastName": "Cirks",
+  "email": "440stainlesssteele@gmail.com",
+  "favoriteColor": "Blue",
+  "birthday": "2000-06-06"
+}
